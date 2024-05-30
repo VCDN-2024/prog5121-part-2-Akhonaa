@@ -1,6 +1,7 @@
 # Recipe Application
 
 
+
 ## Description
 
 The Recipe Application is a console-based program that allows users to manage recipes by adding ingredients, scaling ingredient quantities, and calculating total calories. Users can view a list of all recipes, choose a specific recipe to display, and clear recipe data. The program also notifies users when the total calories of a recipe exceed 300.
